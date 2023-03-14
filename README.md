@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Python Developer for Larsen & Toubro Infotech
 - 💬 Ask me about Python, Machine Learnings
-- 📕 <a href=""> My Resume </a>
+- 📕 <a href="https://drive.google.com/file/d/1HkmSz69kRXuVI4nT8zYEhwoPfY7nssuS/view?usp=share_link"> My Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
