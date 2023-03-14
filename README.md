@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, Varun here!</h1>
+<h3 align="center">A passionate Software Engineer who loves python programming.</h3>
 
-<!--
-**varunsmhatre/varunsmhatre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as Python Developer for Larsen & Toubro Infotech
+- 💬 Ask me about Python, Machine Learnings
+- 📕 <a href=""> My Resume </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/varunmhatre99/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunsmhatre" height="30" width="40" /></a>
+ <a href="mailto:vmhatre99@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/
+ save/varunmhatre99/main/Gmail-Logo2.svg" alt="varunmhatre99" height="30" width="40" /></a>
+</p>
